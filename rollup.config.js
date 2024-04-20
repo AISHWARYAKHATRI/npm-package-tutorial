@@ -6,7 +6,7 @@ export default defineConfig({
   output: {
     dir: "dist",
     format: "es",
-    name: "npm-package-tutorial",
+    name: "test-npm-package-tutorial",
   },
   external: ["react", "react-dom"],
   plugins: [
